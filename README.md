@@ -5,7 +5,8 @@
 ### 1.博客项目功能
 
 本项目分为博客管理功能和博客展示功能
-
+## 主页
+![Alt text](https://github.com/wendaomin/blog-in-express/blob/master/ScreenShots/QQ%E6%88%AA%E5%9B%BE20200803173703.png)
 ### 2.文件介绍
 
 public 静态资源 
