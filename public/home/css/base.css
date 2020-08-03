@@ -87,6 +87,10 @@ textarea {
 	width: 175px;
 	height: 60px;
 }
+.logo a{
+  line-height: 60px;
+  color: #FFF;
+}
 
 .logo a,
 .logo img {
@@ -156,3 +160,7 @@ textarea {
 	font-weight: bold;
 }
 /* 文章标题结束 */
+/* 登录页面 */
+.login-body button{
+  background-color: #3f434c!important;
+}

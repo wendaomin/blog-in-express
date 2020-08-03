@@ -3,7 +3,7 @@
     <div class="w1100">
         <!-- 网站logo开始 -->
         <h1 class="logo fl">
-            <a href="default.html"><img src="/home/images/logo.png" alt="黑马程序员"></a>
+            <a href="default.html">个人博客</a>
         </h1>
         <!-- 网站logo结束 -->
         <!-- 网站导航开始 -->
